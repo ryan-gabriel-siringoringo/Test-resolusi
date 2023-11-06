@@ -1,2 +1,3 @@
-Belajar menggunakan github. Membuat file .txt
+Belajar menggunakan github.
 edit: menambahkan teks tambahan
+menambahkan teks lagi
