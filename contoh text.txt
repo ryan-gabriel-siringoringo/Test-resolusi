@@ -1,1 +1,2 @@
 Belajar menggunakan github. Membuat file .txt
+edit: menambahkan teks tambahan
